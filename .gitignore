@@ -56,3 +56,5 @@
 # Ignore yard files
 /.yardoc
 /doc
+
+/.env
